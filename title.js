@@ -1,0 +1,1 @@
+document.title = "Hello foreigner" + new Date().toLocaleString();
